@@ -1,0 +1,9 @@
+E:\Work\ProcQ\FirstDayExercise1\FDE.Infrastructure\bin\Debug\netcoreapp3.1\FDE.Infrastructure.deps.json
+E:\Work\ProcQ\FirstDayExercise1\FDE.Infrastructure\bin\Debug\netcoreapp3.1\FDE.Infrastructure.dll
+E:\Work\ProcQ\FirstDayExercise1\FDE.Infrastructure\bin\Debug\netcoreapp3.1\FDE.Infrastructure.pdb
+E:\Work\ProcQ\FirstDayExercise1\FDE.Infrastructure\obj\Debug\netcoreapp3.1\FDE.Infrastructure.csprojAssemblyReference.cache
+E:\Work\ProcQ\FirstDayExercise1\FDE.Infrastructure\obj\Debug\netcoreapp3.1\FDE.Infrastructure.AssemblyInfoInputs.cache
+E:\Work\ProcQ\FirstDayExercise1\FDE.Infrastructure\obj\Debug\netcoreapp3.1\FDE.Infrastructure.AssemblyInfo.cs
+E:\Work\ProcQ\FirstDayExercise1\FDE.Infrastructure\obj\Debug\netcoreapp3.1\FDE.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Work\ProcQ\FirstDayExercise1\FDE.Infrastructure\obj\Debug\netcoreapp3.1\FDE.Infrastructure.dll
+E:\Work\ProcQ\FirstDayExercise1\FDE.Infrastructure\obj\Debug\netcoreapp3.1\FDE.Infrastructure.pdb

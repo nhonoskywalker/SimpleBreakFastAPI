@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FDE.Services.Breakfasts/1.0.0": {
+        "dependencies": {
+          "FDE.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "FDE.Services.Breakfasts.dll": {}
+        }
+      },
+      "FDE.Infrastructure/1.0.0": {
+        "runtime": {
+          "FDE.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FDE.Services.Breakfasts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FDE.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

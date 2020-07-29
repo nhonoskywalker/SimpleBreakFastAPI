@@ -1,0 +1,12 @@
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\bin\Debug\netcoreapp3.1\FDE.Services.Breakfasts.deps.json
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\bin\Debug\netcoreapp3.1\FDE.Services.Breakfasts.dll
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\bin\Debug\netcoreapp3.1\FDE.Services.Breakfasts.pdb
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\obj\Debug\netcoreapp3.1\FDE.Services.Breakfasts.csprojAssemblyReference.cache
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\obj\Debug\netcoreapp3.1\FDE.Services.Breakfasts.AssemblyInfoInputs.cache
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\obj\Debug\netcoreapp3.1\FDE.Services.Breakfasts.AssemblyInfo.cs
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\obj\Debug\netcoreapp3.1\FDE.Services.Breakfasts.csproj.CoreCompileInputs.cache
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\obj\Debug\netcoreapp3.1\FDE.Services.Breakfasts.dll
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\obj\Debug\netcoreapp3.1\FDE.Services.Breakfasts.pdb
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\bin\Debug\netcoreapp3.1\FDE.Infrastructure.dll
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\bin\Debug\netcoreapp3.1\FDE.Infrastructure.pdb
+E:\Work\ProcQ\FirstDayExercise1\FDE.Services.Breakfasts\obj\Debug\netcoreapp3.1\FDE.Services.Breakfasts.csproj.CopyComplete

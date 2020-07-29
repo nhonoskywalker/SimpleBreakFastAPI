@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xa7uXi5YBnRKNJOhonkxpXaz5ILuerblAiWuY6GlDF0zgL64j91M+zmB3Q9vjFAKn0FRDVNKbh6JmEPo12ZmTQ==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\ProcQ\\FirstDayExercise1\\FDE.Services.Breakfasts\\FDE.Services.Breakfasts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nhono\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
